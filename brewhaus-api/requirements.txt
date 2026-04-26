@@ -1,0 +1,6 @@
+requests==2.31.*            # the HTTP library
+python-dotenv==1.*          # load .env files
+tenacity==8.*               # retry decorator with backoff
+pydantic==2.*               # data contracts on responses
+pandas==2.2.*                # for quick DataFrame inspection
+
